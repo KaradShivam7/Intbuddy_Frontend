@@ -1,0 +1,21 @@
+services:
+  frontend:
+
+    image: amarbhise97/intbuddy-frontend:latest
+
+    container_name: intbuddy-frontend
+
+    restart: unless-stopped
+
+    env_file:
+      - ../env/frontend.env
+
+    expose:
+      - "80"
+
+    networks:
+      - intbuddy-network
+
+networks:
+  intbuddy-network:
+    external: true
