@@ -25,8 +25,8 @@ function Footer() {
           <div className="col-md-3 mb-4">
             <h5>Contact</h5>
             <p><i className="bi bi-geo-alt-fill"></i> Unique System SKills,Kothrud Pune, India</p>
-            <p><i className="bi bi-telephone-fill"></i> +91 9730695484</p>
-            <p><i className="bi bi-envelope-fill"></i> bhiseamar2003@gmail.com</p>
+            <p><i className="bi bi-telephone-fill"></i> +91 8329870807</p>
+            <p><i className="bi bi-envelope-fill"></i> shivamkarad29@gmail.com</p>
           </div>
 
           <div className="col-md-3 mb-4">
